@@ -54,3 +54,10 @@ Personalized Analytics: Understand what influences your emotional wellbeing
 **Wellness Apps Integration:** Recommended tools for holistic care
 
 **Educational Materials:** Learn about mental health conditions and treatments
+
+**Getting Started**
+**Prerequisites**
+Node.js (v14 or higher)
+MongoDB Atlas account (for user authentication)
+Firebase account (for real-time data)
+Groq API key (for AI chat functionality)
