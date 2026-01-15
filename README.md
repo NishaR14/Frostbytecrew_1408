@@ -61,3 +61,6 @@ Node.js (v14 or higher)
 MongoDB Atlas account (for user authentication)
 Firebase account (for real-time data)
 Groq API key (for AI chat functionality)
+
+Demo link:
+https://drive.google.com/file/d/1GKTVz-joqqC9w4GTkkbCwM2ufATQOtDt/view?usp=sharing
